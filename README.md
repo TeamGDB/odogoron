@@ -1,4 +1,7 @@
 # Odogoron
+
+![goreportcard badge](https://goreportcard.com/badge/github.com/TeamGDB/odogoron) 
+
 **Odogoron** framework for simple creation of [event-driven](https://en.wikipedia.org/wiki/Event-driven_architecture) applications.
 
 
